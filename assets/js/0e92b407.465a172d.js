@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksite=self.webpackChunksite||[]).push([[949],{8428:function(e){e.exports=JSON.parse('{"label":"hello","permalink":"/seashield.github.io/blog/tags/hello","allTagsPath":"/seashield.github.io/blog/tags","count":2}')}}]);
