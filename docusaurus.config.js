@@ -23,7 +23,7 @@ const config = {
   // metadata like html lang. For example, if your site is Chinese, you may want
   // to replace "en" with "zh-Hans".
   i18n: {
-    defaultLocale: 'en',
+    defaultLocale: 'fr',
     locales: ['en', 'fr'],
   },
 
@@ -71,8 +71,13 @@ const config = {
           },
           /* {to: '/blog', label: 'Blog', position: 'left'}, */
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/ItsEwen/',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/8fwQvf6Tdv',
+            label: 'Discord',
             position: 'right',
           },
           {
@@ -97,7 +102,7 @@ const config = {
             items: [
               {
                 label: 'Discord',
-                href: 'https://discord.gg/seashield',
+                href: 'https://discord.gg/8fwQvf6Tdv',
               },
               {
                 label: 'Twitter',

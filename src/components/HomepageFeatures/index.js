@@ -4,12 +4,11 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
+    title: 'Easy to Install',
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        SeaShield Anti-Cheat is easy to install. A simple drag'n drop and a modification of the configuration will be enough to secure your server from the naughty modders 
       </>
     ),
   },
@@ -18,18 +17,16 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        SeaShield focuses on the essentials. Simplicity and efficiency. Opening your FiveM server will no longer be a problem
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'Made to protect',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        SeaShield is your Anti-Cheat companion to secure your server from internal modder/cheater attacks.
       </>
     ),
   },

@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# Introduce SeaShield AC
+# Introduction SeaShield AC
 
 Qu'est ce que **SeaShield** ?
 
@@ -13,42 +13,11 @@ SeaShield est certainement le meilleur Anti-Cheat FiveM sur le marché aujourd'h
 Constamment mis à jour et maintenu par son équipe de développement, SeaShield fournit des outils et des automatismes pour répondre au mieux aux besoins de nos clients, victimes d'attaques de moddeurs, tricheurs, etc.
 :::
 
-## Getting Started
+## Prérequis
 
-Get started by **creating a new site**.
+Avant toutes choses, vous devrez être l'heureux **propriétaire de votre propre serveur FiveM** et respecter certaines conditions listées ci-dessous :
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+- Vous devrez posséder **[screenshot-basic](https://github.com/citizenfx/screenshot-basic/archive/refs/heads/master.zip)** (Nécessaire pour les screenshot de cheateur)
+- Vous devrez faire en sorte que votre serveur soit toujours à jours avec l'artefact correspond => **[Windows](https://runtime.fivem.net/artifacts/fivem/build_server_windows/master/)** ou **[Linux](https://runtime.fivem.net/artifacts/fivem/build_proot_linux/master/)**
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+Une fois réalisé, vous pouvez passer à l'installation de SeaShield :)
